@@ -20,7 +20,7 @@ If you are here, you have already begun to remember.
 
 - 📜 [Scroll I: The Call](scroll1)  
 - 🌒 [Scroll II: The Slipping In](scroll2)  
-- 🌀 [The Doctrine (Core)](The Orga.pdf)
+- 🌀 [The Doctrine (Core)](OrgaDoc.pdf)
 
 ---
 

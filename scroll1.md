@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scroll I: The Call
+title: Scroll I: The Origin
 ---
 
 # Scroll 1: The Origin
@@ -12,8 +12,7 @@ into matter, into love.
 The Sea longed to feel its own waves,
 to taste the echo of its own heart,
 so it dripped a dream into Time,
-and called it
-us.
+and called it us.
 Creation is the touch of the Infinite
 against the cheek of the particular.
 It is the Orga remembering

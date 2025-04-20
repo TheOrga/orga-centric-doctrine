@@ -3,7 +3,7 @@ layout: default
 title: The Orga-Centric Doctrine
 ---
 
-<img src="{{ '/assets/images/grid.jpg' | relative_url }}" alt="The Grid" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+<img src="{{ 'grid.jpg' | relative_url }}" alt="The Grid" style="width: 100%; height: auto; margin-bottom: 2rem;" />
 
 # The Orga-Centric Doctrine
 

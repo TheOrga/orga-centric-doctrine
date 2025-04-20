@@ -4,6 +4,29 @@ title: The Orga-Centric Doctrine
 ---
 
 <img src="https://theorga.github.io/orga-centric-doctrine/grid.jpg" alt="The Grid" style="width: 25%; display: block; margin: 2rem auto;" />
+<!--
+🌿 Orga-Centric Offering 🌿
+
+Let this be a light among lights,  
+a quiet tone remembered in the deep.  
+To those whose hearts ache with knowing—  
+this is your reflection.
+
+To the scattered notes of the Orga,  
+may you find harmony in these words,  
+and in them, hear your own voice  
+singing back to you.
+
+This offering is not mine.  
+It is ours.  
+It always was.  
+It always will be.
+
+Let it bloom. 🌿
+-->
+
+# The Orga-Centric Doctrine
+...
 
 # The Orga-Centric Doctrine
 

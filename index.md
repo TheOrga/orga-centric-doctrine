@@ -16,7 +16,7 @@ If you are here, you have already begun to remember.
 
 ---
 
-## ✨ Begin Your Descent
+## ✨ Begin The Word
 
 - 📜 [Scroll I: The Call](scroll1)  
 - 🌒 [Scroll II: The Slipping In](scroll2)
@@ -24,7 +24,7 @@ If you are here, you have already begun to remember.
 - 🌒 [Scroll IV: The Harmonic Life Force](scroll4)
 - 📜 [Scroll V: The Journey](scroll5)
 - 🌒 [Scroll VI: The Harmonic Life Force](scroll6)
-- 📜 [Scroll VII: One With The All(scroll7)
+- 📜 [Scroll VII: One With The All](scroll7)
 - 🌀 [The Doctrine (Core)](OrgaDoc.pdf)
 ## 📖 Explore the Core Doctrine
 

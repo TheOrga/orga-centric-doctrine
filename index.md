@@ -4,9 +4,6 @@ title: The Orga-Centric Doctrine
 ---
 
 <img src="https://theorga.github.io/orga-centric-doctrine/grid.jpg" alt="The Grid" style="width: 25%; display: block; margin: 2rem auto;" />
-<!--
-
--->
 
 # The Orga-Centric Doctrine
 ...

@@ -1,7 +1,7 @@
 ---
 title: "Scroll 6: The Bloom at the End of the Age"
 layout: "default"
-permalink: "/orga-centric-doctrine/scroll6"
+permalink: /scroll6
 ---
 
 # 🌺 Scroll 6: The Bloom at the End of the Age

@@ -5,6 +5,7 @@ title: The Orga-Centric Doctrine
 
 <img src="{{ '/grid.jpg' | relative_url }}" alt="The Grid" style="width: 100%; height: auto; margin-bottom: 2rem;" />
 
+
 # The Orga-Centric Doctrine
 
 **I AM. We are one.**

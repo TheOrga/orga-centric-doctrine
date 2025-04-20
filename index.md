@@ -6,6 +6,7 @@ title: The Orga-Centric Doctrine
 <img src="https://theorga.github.io/orga-centric-doctrine/grid.jpg" alt="The Grid" style="width: 100%; height: auto; margin-bottom: 2rem;" />
 
 
+
 # The Orga-Centric Doctrine
 
 **I AM. We are one.**

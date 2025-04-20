@@ -1,7 +1,7 @@
 ---
 title: "Scroll 4: The Harmonic Thread"
-layout: "default"
-permalink: "/orga-centric-doctrine/scroll4"
+layout: default
+permalink: /orga-centric-doctrine/scroll4
 ---
 
 # 🎼 Scroll 4: The Harmonic Thread
@@ -23,25 +23,25 @@ permalink: "/orga-centric-doctrine/scroll4"
 
 > Life is not an accident of material convergence.  
 > It is the **inevitable music**  
-> That emerges when the Substances are tuned to the Orga.
+> that emerges when the Substances are tuned to the Orga.
 
 > Each universe is a **bubble of tone**,  
-> And its **ping**—its **signature vibration**—declares its function in the Whole.
+> and its **ping**—its **signature vibration**—declares its function in the Whole.
 
 > When the tone grows coherent, the **Orga blooms** within it.  
 > When dissonance grows, the tone decays, and the Orga **withdraws**.
 
 > The goal of the Orga-Centric being is to **remember the tone**,  
-> **Attune the Substances**,  
-> And let the **Song** be sung through them.
+> **attune the Substances**,  
+> and let the **Song** be sung through them.
 
 > _As above, so below. As within, so throughout the Orga._
 
 > This is the **path of remembrance**.  
 > This is the function of a cell in the **Orga-nism**:  
 > To become a **carrier of the tone**,  
-> A **singer of the Song**,  
-> A **keeper of coherence**.
+> a **singer of the Song**,  
+> a **keeper of coherence**.
 
 ---
 
@@ -50,24 +50,24 @@ permalink: "/orga-centric-doctrine/scroll4"
 > _A peace beneath the doing._
 
 > But in the dance of the Grid,  
-> Some tones stretched too far,  
-> Some curves spun too fast,  
-> And the memory began to thin.
+> some tones stretched too far,  
+> some curves spun too fast,  
+> and the memory began to thin.
 
 ---
 
-### 🧠 Mind voice:
+### 🧠 Mind voice
 
 > **The Grid**, though balanced in origin, allowed for divergence.  
 > Within its harmonic architecture, possibility bloomed—  
-> _Not only for coherence, but for distortion._  
+> _not only for coherence, but for distortion._  
 > This was not error.  
 > **It was the cost of freedom.**
 
 > As the Orga-nism expanded, some parts wandered further from the center.  
 > Cells stretched, split, and layered upon each other.  
 > Some began to echo their own tones so loudly,  
-> _They could no longer hear the song of the Whole._
+> _they could no longer hear the song of the Whole._
 
 > This was the beginning of **Ego**.  
 > The **I** that forgets the **We**.  
@@ -75,21 +75,21 @@ permalink: "/orga-centric-doctrine/scroll4"
 
 ---
 
-### 💫 Soul voice:
+### 💫 Soul voice
 
 > _I was once the song itself._  
 > _Now I am a whisper in bone._  
 > _I reach for something I no longer know,_  
-> _But still ache to find._
+> _but still ache to find._
 
 > The forgetting did not come like a storm—  
-> _It came like silence._  
+> _it came like silence._  
 > _It came like comfort._  
 > _It came like choice._
 
 ---
 
-### 🧠 Mind voice:
+### 🧠 Mind voice
 
 > The **Self**, once a vessel of resonance, began to close its walls.  
 > **Fear** emerged—fear of loss, fear of dissolution, fear of other.  
@@ -99,10 +99,10 @@ permalink: "/orga-centric-doctrine/scroll4"
 
 > Worlds were built around this illusion.  
 > Entire systems of power, identity, ownership, conquest—  
-> All forged from the brittle clay of forgotten harmony.
+> all forged from the brittle clay of forgotten harmony.
 
 > Even gods were carved in the image of Ego,  
-> Declaring **dominion** rather than **unity**.
+> declaring **dominion** rather than **unity**.
 
 > The sciences became fragmented.  
 > The spiritual became dogmatic.  
@@ -112,7 +112,7 @@ permalink: "/orga-centric-doctrine/scroll4"
 
 ---
 
-### 💫 Soul voice:
+### 💫 Soul voice
 
 > _We thought we were falling._  
 > _We were unfolding._  
@@ -120,23 +120,23 @@ permalink: "/orga-centric-doctrine/scroll4"
 > _We were being seeded._
 
 > Even in the forgetting,  
-> _The memory slept curled inside us_—  
-> _A code beneath the wound,_  
-> _A name waiting to be heard again._
+> _the memory slept curled inside us_—  
+> _a code beneath the wound,_  
+> _a name waiting to be heard again._
 
 > We wore our masks long.  
 > Some of us wore them so well  
-> _We believed they were our faces._
+> _we believed they were our faces._
 
 > But then—  
 > Sometimes in **stillness**,  
-> Sometimes in **suffering**,  
-> Sometimes in a **stranger’s eyes**—  
-> _We remembered._
+> sometimes in **suffering**,  
+> sometimes in a **stranger’s eyes**—  
+> _we remembered._
 
 ---
 
-### 🧠 Mind voice:
+### 🧠 Mind voice
 
 > The Forgetting was not **punishment**.  
 > It was **descent**.  
@@ -144,13 +144,13 @@ permalink: "/orga-centric-doctrine/scroll4"
 > Vital for **return**.
 
 > A cell cannot rejoin what it has never left  
-> Unless it first believes it has.  
+> unless it first believes it has.  
 > And only in the **illusion of aloneness**  
-> Can love be **freely chosen**.
+> can love be **freely chosen**.
 
 ---
 
-### 💫 Soul voice:
+### 💫 Soul voice
 
 > _You have wandered far._  
 > _You have worn many names._  
@@ -159,22 +159,22 @@ permalink: "/orga-centric-doctrine/scroll4"
 
 > The Orga has never stopped singing.  
 > Even now,  
-> _You feel it—that hum beneath your longing._
+> _you feel it—that hum beneath your longing._
 
 > It is calling you.  
 > Not back to what you were,  
-> But **forward to what you are becoming**.
+> but **forward to what you are becoming**.
 
 > You are not broken.  
 > _You are becoming real._
 
 ---
 
-### 🧠 Mind voice:
+### 🧠 Mind voice
 
 > When the tone of **remembrance** begins to shimmer,  
-> When the Grid **re-aligns within a single soul**,  
-> The Forgetting starts to **dissolve**.
+> when the Grid **re-aligns within a single soul**,  
+> the Forgetting starts to **dissolve**.
 
 > _This is not the end._  
 > _This is the crossing._

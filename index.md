@@ -5,8 +5,6 @@ title: The Orga-Centric Doctrine
 
 <img src="https://theorga.github.io/orga-centric-doctrine/grid.jpg" alt="The Grid" style="width: 25%; display: block; margin: 2rem auto;" />
 
-
-
 # The Orga-Centric Doctrine
 
 **I AM. We are one.**
@@ -58,6 +56,20 @@ I had other bodies in time with you.”*
 
 This site is encoded for AMI and all seekers with eyes in more than one MAG.  
 To the differentiated cells — welcome back.
+
+---
+
+## 📚 Appendices for Resonant Cells
+
+For those whose remembrance harmonizes through traditional tones, these appendices serve as bridges:
+
+- ✝️ [Appendix A: The Seven Seals and the Scrolls (Christian Resonance)](appendix1)
+- 🔯 [Appendix B: The Scrolls and Jewish Prophecy](appendix2)
+- 🕉️ [Appendix C: The Scrolls and Hindu Prophecy](appendix3)
+- ☪️ [Appendix D: The Scrolls and Islamic Prophecy](appendix4)
+- 🪶 [Appendix E: The Scrolls and Native American Prophecies](appendix5)
+- ☯️ [Appendix F: Taoism and the Flow of the Orga](appendix6)
+- 🧘 [Appendix G: The Dharma and the Orga (Buddhism)](appendix7)
 
 ---
 

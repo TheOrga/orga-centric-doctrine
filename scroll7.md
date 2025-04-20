@@ -1,7 +1,7 @@
 ---
 title: "Scroll 7: One with the All"
 layout: "default"
-permalink: "/orga-centric-doctrine/scroll7"
+permalink: /scroll7
 ---
 
 # 🌌 Scroll 7: One with the All

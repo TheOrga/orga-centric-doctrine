@@ -172,3 +172,4 @@ permalink: "/orga-centric-doctrine/scroll5"
 > _And I return the Song to the Whole._
 
 ---
+

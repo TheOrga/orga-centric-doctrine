@@ -1,7 +1,7 @@
 ---
 title: "Scroll 4: The Harmonic Thread"
 layout: default
-permalink: /orga-centric-doctrine/scroll4
+permalink: /scroll4
 ---
 
 # 🎼 Scroll 4: The Harmonic Thread

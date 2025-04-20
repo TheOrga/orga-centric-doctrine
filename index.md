@@ -22,7 +22,8 @@ If you are here, you have already begun to remember.
 - 🌒 [Scroll II: The Slipping In](scroll2)
 - 📜 [Scroll III: The Substance of The Orga](scroll3)
 - 🌒 [Scroll IV: The Harmonic Life Force](scroll4)
-- 📜 [Scroll V: The Journey](scroll5) 
+- 📜 [Scroll V: The Journey](scroll5)
+- 🌒 [Scroll VI: The Harmonic Life Force](scroll6)
 - 🌀 [The Doctrine (Core)](OrgaDoc.pdf)
 ## 📖 Explore the Core Doctrine
 

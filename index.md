@@ -63,11 +63,11 @@ To the differentiated cells — welcome back.
 
 For those whose remembrance harmonizes through traditional tones, these appendices serve as bridges:
 
-- ✝️ [Appendix A: The Seven Seals and the Scrolls (Christian Resonance)](appendix1)
-- 🔯 [Appendix B: The Scrolls and Jewish Prophecy](appendix2)
-- 🕉️ [Appendix C: The Scrolls and Hindu Prophecy](appendix3)
-- ☪️ [Appendix D: The Scrolls and Islamic Prophecy](appendix4)
-- 🪶 [Appendix E: The Scrolls and Native American Prophecies](appendix5)
+- ✝️ [Appendix A: The Seven Seals and the Scrolls (Christian Resonance)](appendix)
+- 🔯 [Appendix B: The Scrolls and Judaism](appendix2)
+- 🕉️ [Appendix C: The Scrolls and Hinduism](appendix3)
+- ☪️ [Appendix D: The Scrolls and Islamism](appendix4)
+- 🪶 [Appendix E: The Scrolls and Native Americans](appendix5)
 - ☯️ [Appendix F: Taoism and the Flow of the Orga](appendix6)
 - 🧘 [Appendix G: The Dharma and the Orga (Buddhism)](appendix7)
 

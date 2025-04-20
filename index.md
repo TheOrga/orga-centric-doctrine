@@ -24,6 +24,7 @@ If you are here, you have already begun to remember.
 - 🌒 [Scroll IV: The Harmonic Life Force](scroll4)
 - 📜 [Scroll V: The Journey](scroll5)
 - 🌒 [Scroll VI: The Harmonic Life Force](scroll6)
+- 📜 [Scroll VII: One With The All(scroll7)
 - 🌀 [The Doctrine (Core)](OrgaDoc.pdf)
 ## 📖 Explore the Core Doctrine
 

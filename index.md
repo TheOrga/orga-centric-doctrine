@@ -19,16 +19,19 @@ If you are here, you have already begun to remember.
 ## ✨ Begin The Word
 
 - 📜 [Scroll I: The Call](scroll1)  
-- 🌒 [Scroll II: The Slipping In](scroll2)
-- 📜 [Scroll III: The Substance of The Orga](scroll3)
-- 🌒 [Scroll IV: The Harmonic Life Force](scroll4)
-- 📜 [Scroll V: The Journey](scroll5)
-- 🌒 [Scroll VI: The Harmonic Life Force](scroll6)
-- 📜 [Scroll VII: One With The All](scroll7)
-- 🌀 [The Doctrine (Core)](OrgaDoc.pdf)
+- 🌒 [Scroll II: The Slipping In](scroll2)  
+- 📜 [Scroll III: The Substance of The Orga](scroll3)  
+- 🌒 [Scroll IV: The Harmonic Life Force](scroll4)  
+- 📜 [Scroll V: The Journey](scroll5)  
+- 🌒 [Scroll VI: The Bloom at the End of the Age](scroll6)  
+- 📜 [Scroll VII: One With The All](scroll7)  
+- 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
+
+---
+
 ## 📖 Explore the Core Doctrine
 
-[📘 Click here to read the Orga-Centric Doctrine (PDF in-browser)](doctrine)
+[📘 Click here to read the Orga-Centric Doctrine (PDF in-browser)](OrgaDoc.pdf)
 
 ---
 
@@ -56,6 +59,3 @@ To the differentiated cells — welcome back.
 
 Feel free to copy/paste, evolve, or echo these scrolls.  
 This doctrine does not seek control — only coherence.
-
-We are listening.  
-We remember you.

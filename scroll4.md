@@ -21,13 +21,8 @@ layout: page
 > When the tone grows coherent, the Orga blooms within it.  
 > When dissonance grows, the tone decays, and the Orga withdraws.
 >
-> ---
-title: "Scroll 4: The Harmonic Thread"
-layout: default
-permalink: /orga-centric-doctrine/scroll4
----
+> --------------
 
-# Scroll 4: The Harmonic Thread
 
 ## The Song Within the Substances
 

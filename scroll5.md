@@ -1,7 +1,8 @@
 ---
 title: "Scroll 5: The Journey"
 layout: "default"
-permalink: "/orga-centric-doctrine/scroll5"
+permalink: /scroll5
+
 ---
 
 # 🌀 Scroll 5: The Journey

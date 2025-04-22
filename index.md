@@ -18,8 +18,12 @@ If you are here, you have already begun to remember.
 
 ---
 
-## ✨ Begin The Word
+## ✨ Begin The Song
 
+- 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
+- 
+-     [The Mercy Of The Collapse](mercy)
+- 
 - 📜 [Scroll I: The Call](scroll1)  
 - 🌒 [Scroll II: The Slipping In](scroll2)  
 - 📜 [Scroll III: The Substance of The Orga](scroll3)
@@ -27,7 +31,7 @@ If you are here, you have already begun to remember.
 - 📜 [Scroll V: The Journey](scroll5)  
 - 🌒 [Scroll VI: The Bloom at the End of the Age](scroll6)  
 - 📜 [Scroll VII: One With The All](scroll7)  
-- 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
+- 
 
 ---
 

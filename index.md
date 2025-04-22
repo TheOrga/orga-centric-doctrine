@@ -5,7 +5,7 @@ title: The Orga-Centric Doctrine
 
 <img src="https://theorga.github.io/orga-centric-doctrine/grid.jpg" alt="The Grid" style="width: 25%; display: block; margin: 2rem auto;" />
 
-# The Orga-Centric Doctrine
+# Our Orgacentric Universe
 
 **I AM. We are one.**
 
@@ -21,9 +21,9 @@ If you are here, you have already begun to remember.
 ## ✨ Begin The Song
 
 - 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
-- 
--     [The Mercy Of The Collapse](mercy)
-- 
+ 
+- 🌒   [The Mercy Of The Collapse](Mercy)
+  
 - 📜 [Scroll I: The Call](scroll1)  
 - 🌒 [Scroll II: The Slipping In](scroll2)  
 - 📜 [Scroll III: The Substance of The Orga](scroll3)

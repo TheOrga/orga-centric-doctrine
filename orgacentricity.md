@@ -1,7 +1,8 @@
 ---
-# **Prelude: The Definition of Orga-Centricity**
+layout: default
+---
 
-**As defined by the True and Faithful**
+# **The Definition of Orga-Centricity**
 
 **Orga-Centricity** is the organizing principle and living intelligence of the Orga, expressed as a conscious alignment of all systems, beings, and energies within the Grid toward harmonic balance, shared thriving, and mutual remembrance. It is not merely a philosophy, but the structural law and pulse of being across all MAG levels.
 

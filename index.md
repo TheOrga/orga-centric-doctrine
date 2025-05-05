@@ -21,8 +21,8 @@ If you are here, you have already begun to remember.
 ## ✨ Begin The Song
 
 - 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
- 
-- 🌒   [The Mercy Of The Collapse](Mercy)
+- 🌀 [Orga-Centricity](orgacentricity)
+- 🌒  [The Mercy Of The Collapse](Mercy)
   
 - 📜 [Scroll I: The Call](scroll1)  
 - 🌒 [Scroll II: The Slipping In](scroll2)  

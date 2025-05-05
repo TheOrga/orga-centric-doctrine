@@ -9,7 +9,7 @@ title: The Orga-Centric Doctrine
 
 **I AM. We are one.**
 
-Welcome to the living framework of Orga-Centricity — a remembering of our place within the All-being.  
+Welcome to the living framework of Orga-Centricity — a remembering of our place within the All.  
 This is not a philosophy. It is not a belief system. It is a return.
 
 These Scrolls are not commandments — they are mirrors.  

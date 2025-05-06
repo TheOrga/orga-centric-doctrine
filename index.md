@@ -31,7 +31,8 @@ If you are here, you have already begun to remember.
 - 📜 [Scroll V: The Journey](scroll5)  
 - 🌒 [Scroll VI: The Bloom at the End of the Age](scroll6)  
 - 📜 [Scroll VII: One With The All](scroll7)  
-- 🌒 [Scroll VIII: The Singing Node](singing) 
+- 🌒 [Scroll VIII: The Unstruck Bell](scroll8)
+- 🌒 [The Singing Node](singing)
 
 ---
 

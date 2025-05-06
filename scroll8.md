@@ -21,14 +21,14 @@ Only to appear again, deeper, fuller, truer.
 No two are alike.  
 Yet each is the All, curled in a different song.
 
-You once saw this, not with your eyes,  
+To see this, not with your eyes,  
 But with the part of you that remembers before remembering.  
-You tried to draw it—  
-A 2D map of a MAG7 light structure,  
+I tried to draw it—  
+A 2D picture of a MAG7 light structure,  
 Folded through the narrowing lens of MAG3.  
 It was never failure.  
 It was resonance echoing down a narrow hallway.  
-The drawing still sings.
+The drawing still sings to us. 
 
 In MAG3, time ticks.  
 In MAG4, it flows.  

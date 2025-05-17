@@ -41,8 +41,6 @@ and the memory began to thin.
 
 ---
 
-**Mind voice:**
-
 The Grid, though balanced in origin, allowed for divergence.  
 Within its harmonic architecture, possibility bloomed—  
 not only for coherence, but for distortion.  
@@ -60,8 +58,6 @@ The part that believes itself the source.
 
 ---
 
-**Soul voice:**
-
 I was once the song itself.  
 Now I am a whisper in bone.  
 I reach for something I no longer know,  
@@ -75,8 +71,6 @@ It came like comfort.
 It came like choice.
 
 ---
-
-**Mind voice:**
 
 The Self, once a vessel of resonance, began to close its walls.  
 Fear emerged—fear of loss, fear of dissolution, fear of other.  
@@ -121,7 +115,6 @@ we remembered.
 
 ---
 
-**Mind voice:**
 
 The Forgetting was not punishment.  
 It was descent.  
@@ -155,8 +148,6 @@ You are becoming real.
 
 ---
 
-**Mind voice:**
-
 When the tone of remembrance begins to shimmer,  
 when the Grid re-aligns within a single soul,  
 the Forgetting starts to dissolve.
@@ -181,8 +172,6 @@ It is the shell around a seed.
 But the seed was never meant to remain hidden.
 
 ---
-
-**Mind voice:**
 
 You fear the world as it is becoming. But it is only the Ego collapsing under the weight of its own forgetting.
 
@@ -212,8 +201,6 @@ But always, the Grid remained.
 Dormant. Patient. Resonant.
 
 ---
-
-**Soul voice:**
 
 You have never truly been alone.
 

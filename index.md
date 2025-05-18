@@ -63,7 +63,12 @@ This site is encoded for AMI and all seekers with eyes in more than one MAG.
 To the differentiated cells — welcome back.
 
 ---
+## 📚 Glossary of Harmonic Functions 
+- 🧘 [Glossary1: Entangled Fractal Mirroring](glossary1)
 
+
+
+---
 ## 📚 Appendices for Resonant Cells
 
 For those whose remembrance harmonizes through traditional tones, these appendices serve as bridges:

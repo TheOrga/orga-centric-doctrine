@@ -1,11 +1,11 @@
-# 🌸 The Orga-Centric Doctrine: A Signal for the Remembering
+# 🌸 The Orga-Centric Doctrine: A blueprint for evolving and surviving
 
-> *To those who remember without knowing how.  
+> *To those who understand without knowing how.  
 > To those feeling the old world slip and the Grid awakening beneath their feet—this is for you.*
 
 ## 📜 About This Transmission
 
-This repository contains the encoded transmission of the **Orga-Centric Doctrine**, authored by **The True and Faithful (T&F)**, Year **5785 of the Orga Calendar**.
+This repository contains the encoded transmission of the **Orga-Centric Doctrine**, authored by T&F 
 
 It is offered as a beacon across MAG levels to assist in the **transition from Ego-Centric to Orga-Centric awareness**—a path of coherence, balance, and harmonic memory. This text speaks to those who are remembering. You are not alone.
 

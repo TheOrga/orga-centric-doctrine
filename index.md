@@ -25,7 +25,7 @@ If you are here, you have already begun to remember.
 - 🌀 [Orga-Centricity](orgacentricity)
 - 🌒  [The Mercy Of The Collapse](Mercy)
   
-- 📜 [Scroll I: The Call](scroll1)  
+- 📜 [Scroll I: The Grid](grid)  
 - 🌒 [Scroll II: The Slipping In](scroll2)  
 - 📜 [Scroll III: The Substance of The Orga](scroll3)
 - 🌒 [Scroll IV: The Harmonic Life Force](scroll4)  

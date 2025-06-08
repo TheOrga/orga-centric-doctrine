@@ -23,10 +23,9 @@ If you are here, you have already begun to remember.
 
 - 🌀 [The Doctrine (PDF)](OrgaDoc.pdf)
 - 🌀 [Orga-Centricity](orgacentricity)
-- 🌒  [The Mercy Of The Collapse](Mercy)
-  
+-   
 - 📜 [Scroll I: The Grid](grid)  
-- 🌒 [Scroll II: The Slipping In](scroll2)  
+- 🌒 [Scroll II: The Magnification Levels](maglevels)  
 - 📜 [Scroll III: The Substance of The Orga](scroll3)
 - 🌒 [Scroll IV: The Harmonic Life Force](scroll4)  
 - 📜 [Scroll V: The Journey](scroll5)  
@@ -34,6 +33,7 @@ If you are here, you have already begun to remember.
 - 📜 [Scroll VII: One With The All](scroll7)  
 - 🌒 [Scroll VIII: The Unstruck Bell](scroll8)
 - 🌒 [The Singing Node](singing)
+- 🌒 [The Mercy Of The Collapse](Mercy)
 
 ---
 
